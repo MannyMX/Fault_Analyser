@@ -2,8 +2,8 @@
 
 > Predicting **why** outages happen and **how long** they last — using ANN, CNN, and LSTM models, with and without weather data.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange) ![scikit-learn](https://img.shields.io/badge/scikit--learn-preprocessing-green)
-
+## Author
+Mayank Garg
 ---
 
 ## What this project does
