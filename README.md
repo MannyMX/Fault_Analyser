@@ -2,8 +2,8 @@
 
 > Predicting **why** outages happen and **how long** they last — using ANN, CNN, and LSTM models, with and without weather data.
 
-## Author
-Mayank Garg
+## Authors
+Mayank Garg, Tushit Datta
 ---
 
 ## What this project does
